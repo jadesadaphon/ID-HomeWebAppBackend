@@ -2,7 +2,7 @@
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/jadesadaphon/ID-HomeWebAppBackend.git
+git clone https://github.com/jadesadaphon/REST-APIs-Node.js-Express.git
 ```
 ```
 cd ID-HomeWebAppBackend
