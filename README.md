@@ -34,6 +34,7 @@ npm run dev
 ```
 ├── app.js                  # Entry point
 ├── db.js                   # การเชื่อมต่อฐานข้อมูล
+├── IDHOMESITE_DB.bak       # ไฟล์ Backup ฐานข้อมูล สำหรับ SqlServer
 ├── routes/
 │   ├── auth.js             # Routes สำหรับ login/register
 │   └── protected.js        # Routes ที่ต้องใช้ auth
